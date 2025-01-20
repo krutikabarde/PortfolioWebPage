@@ -1,0 +1,42 @@
+Krutika Barde
+krutikalbarde@gmail.com | https://www.linkedin.com/in/krutikabarde/
+
+
+
+Summary
+
+Data Analyst with 3+ years of experience in the Banking and Finance industry. Proficient in data mining, statistical analysis, and data visualization techniques. Skilled in leveraging data to drive strategic decision-making, identify trends, optimize operations, mitigate risks and enhance customer experiences.
+
+
+
+Professional Experience
+
+Senior Systems Engineer | Infosys			Sep 2021 – Present
+                                                          
+* Briefly worked with Statements and Data & Reports divisions with exposure to Cross Border and Domestic Payments functionalities.
+* Contributed to the ISO 20022 data migration by analysing existing CAMT and MT data formats and identifying necessary transformations to align with ISO standards.
+* Collected end-to-end customer payment and transaction data, ensuring compliance with diverse country-specific GDPR regulations.
+* Conducted data cleaning, modelling, and statistical analysis using NumPy, Pandas, and Matplotlib to identify bottlenecks, solve discrepancies and generate actionable insights.
+* Leveraged market basket analysis to optimize product placement and marketing strategies, resulting in a 20-32% sales boost for third-party products across Nordics.
+* Automated financial delivery report generation, reducing time by 30% and providing actionable insights to non-technical stakeholders.
+* Collaborated with cross-functional squads in decision making to derive data-driven insights for the closure of legacy formats, resulting in a 20% increase in operational efficiency over the past three quarters.
+* Managed ad-hoc requests, incidents, and on-call responsibilities while coordinating with remote team members and key stakeholders.
+* Employed Agile methodology to manage multiple tasks simultaneously, actively participating in scrum ceremonies and contributing to team deliverables.
+
+
+
+Skills
+
+Programming Languages		: Python, SQL, R
+Data Analytics			: MS Excel, DAX
+Data Visualization		: MS Power BI, Tableau Desktop
+Database Skills			: MySQL, Oracle DB	
+Tools				: Jira, ServiceNow, Confluence
+
+
+
+Education
+
+Bachelor of Engineering in Information Technology	July 2021
+Sinhgad College of Engineering, Pune                                                                                                 
+
