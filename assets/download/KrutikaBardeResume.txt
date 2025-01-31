@@ -11,7 +11,7 @@ Data Analyst with 3+ years of experience in the Banking and Finance industry. Pr
 
 Professional Experience
 
-Senior Systems Engineer | Infosys			Sep 2021 � Present
+Senior Systems Engineer | Infosys			Sep 2021 - Present
                                                           
 * Briefly worked with Statements and Data & Reports divisions with exposure to Cross Border and Domestic Payments functionalities.
 * Contributed to the ISO 20022 data migration by analysing existing CAMT and MT data formats and identifying necessary transformations to align with ISO standards.
