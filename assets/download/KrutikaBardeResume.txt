@@ -11,7 +11,7 @@ Data Analyst with 3+ years of experience in the Banking and Finance industry. Pr
 
 Professional Experience
 
-Senior Systems Engineer | Infosys			Sep 2021 – Present
+Senior Systems Engineer | Infosys			Sep 2021 ï¿½ Present
                                                           
 * Briefly worked with Statements and Data & Reports divisions with exposure to Cross Border and Domestic Payments functionalities.
 * Contributed to the ISO 20022 data migration by analysing existing CAMT and MT data formats and identifying necessary transformations to align with ISO standards.
@@ -27,12 +27,12 @@ Senior Systems Engineer | Infosys			Sep 2021 – Present
 
 Skills
 
-Programming Languages		: Python, SQL, R
-Data Analytics			: MS Excel, DAX
+Programming Languages	: Python, SQL, R, Java
+Data Analytics			: MS Excel, DAX, Power Query
 Data Visualization		: MS Power BI, Tableau Desktop
 Database Skills			: MySQL, Oracle DB	
-Tools				: Jira, ServiceNow, Confluence
-
+Tools			    	: Jira, ServiceNow, Confluence
+Web                     : HTML, CSS, JavaScript
 
 
 Education
